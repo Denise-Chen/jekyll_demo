@@ -1,1 +1,13 @@
+section {
+margin: 2em 0;
+}
+
+section#about {
+img {
+border-radius:50%;
+margin: 0 auto;
+display: block;
+}
+}
+
 h1,p {color:#ffffff}
