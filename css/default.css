@@ -14,7 +14,7 @@ text-align:center;
 }
 
 a:link {
-color:#ff00ff;
+text-decoration:none;
 }
 a:hover {
 color:#ffffff;
@@ -23,4 +23,5 @@ text-decoration:underline;
 
 ul li {
 color:#ffffff;
+text-align:center;
 }
