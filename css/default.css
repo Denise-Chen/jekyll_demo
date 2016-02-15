@@ -3,11 +3,13 @@ background-color: black;
 }
 
 img {
-border-radius:50%;
+border-radius:30%;
 margin: 0 auto;
 display: block;
 }
 
-h1,p {
+h1,h2,p {
 color:#ffffff;
+text-align:center;
 }
+
