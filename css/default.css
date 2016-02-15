@@ -14,11 +14,12 @@ text-align:center;
 }
 
 a:link {
+color:#ffffff;
 text-decoration:none;
 }
 a:hover {
 color:#ffffff;
-text-decoration:underline;
+text-decoration:underline dot;
 }
 
 ul li {
