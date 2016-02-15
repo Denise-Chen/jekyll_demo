@@ -9,9 +9,9 @@ title: Denise Chen
 <h1>{{ page.title }}</h1>
 <section id="about">
 <img src="images/me.jpeg" width="128" height="128" />
-<h2> UX Designer, Lover of Food</h2>
+<h3> UX Designer, Lover of Food</h3>
 </section>
-<p>最新文章</p>
+<p>Essays</p>
 <ul>
     {% for post in site.posts %}
         <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
