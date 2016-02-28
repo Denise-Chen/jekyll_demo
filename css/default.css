@@ -1,11 +1,17 @@
 body {
-background-color: black;
+background-image: url(images/back.jpeg);
 }
 
-img {
+#head img {
 border-radius:50%;
 margin: 0 auto;
 display: block;
+}
+
+div #content{
+margin: auto auto;
+height: 400;
+width: 400;
 }
 
 h1,h2,h3,h4,p {
