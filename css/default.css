@@ -3,13 +3,13 @@ background-image: url(../images/back.jpg);
 }
 
 #content{
-margin: auto auto;
+margin: 0 auto;
 height: 400;
 width: 200;
 background-color: white;
 }
 
-#content img {
+#content img{
 border-radius:50%;
 margin: 0 auto;
 display: block;
