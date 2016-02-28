@@ -1,8 +1,8 @@
 body {
-background-image: url(images/back.jpeg);
+background-image: url(images/back.jpg);
 }
 
-#head img {
+img #head {
 border-radius:50%;
 margin: 0 auto;
 display: block;
