@@ -2,16 +2,17 @@ body {
 background-image: url(../images/back.jpg);
 }
 
-img #head {
-border-radius:50%;
-margin: 0 auto;
-display: block;
-}
-
 div #content{
 margin: auto auto;
 height: 400;
 width: 400;
+background-color: white;
+}
+
+div #content .img {
+border-radius:50%;
+margin: 0 auto;
+display: block;
 }
 
 h1,h2,h3,h4,p {
