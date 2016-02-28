@@ -3,9 +3,9 @@ background-image: url(../images/back.jpg);
 }
 
 #content{
-margin: 100px;
-height: 400;
-width: 200;
+margin: auto auto;
+height: 300px;
+width: 300px;
 background-color: white;
 }
 
