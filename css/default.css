@@ -1,33 +1,41 @@
 body {
-background-image: url(../images/back.jpg);
+background-image: url(../images/back.jpg) no-repeat;
 }
 
 #content{
 margin: 100px 300px;
 height: 400px;
-border-radius: 20px;
+width: 600px;
+border-radius: 10px;
 background-color: white;
+text-align:center;
 }
 
 #content img{
 border-radius:50%;
+padding-top: 50px;
 margin: 0 auto;
 display: block;
+border: 5px solid #000000;
 }
 
-h1,h2,h3,h4,p {
-color:#ffffff;
-text-align:center;
+#link {
+	margin: 20px;
 }
 
 a:link {
-color:#ffffff;
+color: black;
 text-decoration:none;
 }
 a:hover {
-color:#ffffff;
-text-decoration:underline dot;
+color: black;
+text-decoration:underline;
 }
+a:visited {
+color: black;
+}
+
+
 
 ul li {
 color:#ffffff;
