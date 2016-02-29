@@ -1,9 +1,10 @@
 body {
-background-image: url(../images/back.jpg);
+background: url(../images/back.jpg) no-repeat;
+background-size: 100%
 }
 
 #content{
-margin: 100px 300px;
+margin: 100px auto;
 height: 400px;
 width: 600px;
 border-radius: 5px;
