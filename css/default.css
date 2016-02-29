@@ -12,8 +12,12 @@ background-color: white;
 text-align:center;
 }
 
+#content h5 {
+	color: #8e2323;
+}
+
 #info {
-	padding-top: 80px;
+	padding-top: 50px;
 }
 
 #info img{
