@@ -36,13 +36,14 @@ a:link {
 color: black;
 text-decoration:none;
 }
+a:visited {
+color: black;
+}
 a:hover {
 color: #8e2323;
 text-decoration:underline;
 }
-a:visited {
-color: black;
-}
+
 
 
 
